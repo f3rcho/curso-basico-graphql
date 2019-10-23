@@ -20,7 +20,8 @@
     "express-graphql": "^0.9.0",
     "graphql": "^14.5.7",
     "graphql-tools": "^4.0.5",
-    "mongodb": "^3.3.2"
+    "mongodb": "^3.3.2",
+    "win-node-env": "^0.4.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.2",
